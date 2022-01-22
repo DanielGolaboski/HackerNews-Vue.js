@@ -1,7 +1,6 @@
 <template>
     <div
       class="btn-group-vertical d-flex  category-radio mt-5"
-
     >
       <input
         type="radio"
